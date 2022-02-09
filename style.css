@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+/*  
+    Style individual list items.
+*/
+.navbar li {
+    width: 150 px;
+    background-color: #000;
+    border: 1px solid red;
+    /* 
+        Show the navbar elements next to each other instead of on top of each 
+        other. 
+    */
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+/* 
+    Style links in navbar.
+*/
+.navbar a {
+    color:#fff;
+    text-decoration: none;
+}
+
+table, td {
+    border: 1px solid gray;
+}
+
+input {
+    /* 
+        Show different input on top of each other instead of next to each other.
+    */
+    display: block;
+}
+
+/* 
+    Style iframes.
+*/
+iframe {
+    width:100%;
+    height:100%;
+    border: dotted;
+}
