@@ -15,7 +15,7 @@ body {
         Show the navbar elements next to each other instead of on top of each 
         other. 
     */
-    padding: 10px;
+    padding: 20px;
     display: inline-block;
     line-height: 40px;
 }
@@ -24,7 +24,7 @@ body {
     Style links in navbar.
 */
 .navbar a {
-    color:#fff;
+    color:rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -40,9 +40,9 @@ input {
 }
 
 /* 
-    Style iframes.
+    Style popular songs iframe.
 */
-iframe {
+#popular-songs-iframe {
     width:100%;
     height:100%;
     border: dotted;
