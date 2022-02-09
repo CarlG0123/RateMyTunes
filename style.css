@@ -47,3 +47,12 @@ input {
     height:100%;
     border: dotted;
 }
+
+/* 
+    Style citation text
+*/
+#citation {
+    font-size: 10px;
+    flex-wrap: wrap;
+    color: rgb(0, 21, 254);
+}
