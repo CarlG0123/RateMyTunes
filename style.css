@@ -71,4 +71,5 @@ input {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
+    align-items: flex-end;
 }
