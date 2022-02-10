@@ -67,7 +67,7 @@ input {
 /* 
     Style footer text
 */
-Footer {
+footer {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
