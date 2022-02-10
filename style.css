@@ -8,8 +8,7 @@ body {
     Style individual list items.
 */
 .navbar li {
-    width: 150 px;
-    height: 50 px;
+    width: 100 px;
     background-color: #000;
     border: 1px solid red;
     /* 
@@ -52,7 +51,7 @@ input {
 /* 
     Style title text
 */
-#Title {
+#title {
     font-size: 24px;
     flex-wrap: wrap;
     color: rgb(169, 0, 254);
