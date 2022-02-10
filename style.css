@@ -65,9 +65,9 @@ input {
 }
 
 /* 
-    Style citation text
+    Style paragraphs in citation text
 */
-.citation {
+.citation p {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
