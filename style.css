@@ -65,9 +65,9 @@ input {
 }
 
 /* 
-    Style citation text
+    Style footer text
 */
-#citation {
+Footer {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
