@@ -67,7 +67,7 @@ input {
 /* 
     Style citation text
 */
-#citation {
+.citation {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
@@ -75,8 +75,8 @@ input {
 /* 
     Style links in citation.
 */
-#citation a {
+/* #citation a {
     font-size: 10px;
     flex-wrap: wrap;
     color: rgb(0, 21, 254);
-}
+} */
