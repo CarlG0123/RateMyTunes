@@ -50,6 +50,24 @@ input {
 }
 
 /* 
+    Style title text
+*/
+#Title {
+    font-size: 18px;
+    flex-wrap: wrap;
+    color: rgb(169, 0, 254);
+}
+
+/* 
+    Style landing page description text
+*/
+#description {
+    font-size: 14px;
+    flex-wrap: wrap;
+    color: rgb(0, 0, 0);
+}
+
+/* 
     Style citation text
 */
 #citation {
